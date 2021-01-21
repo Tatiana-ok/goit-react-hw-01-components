@@ -1,0 +1,21 @@
+.table {
+  margin-right: auto;
+  margin-left: auto;
+  border: 2px solid #000000;
+  width: 300px;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+td,
+th {
+  border: 2px solid #000000;
+}
+td {
+  font-weight: 400;
+  background-color: rgb(130, 213, 252);
+}
+th {
+  text-transform: uppercase;
+  background-color: rgb(40, 146, 216);
+  color: #fff;
+}
