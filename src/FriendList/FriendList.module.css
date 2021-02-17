@@ -1,50 +1,18 @@
-.statusOnline{
-    display: inline-block;
-    width: 10px;
-    height: 10px;
-    margin-left: 5px;
-    border-radius: 50%;
-    background-color: green;
+.name {
+  color: black;
+  font-weight: 600;
+  font-size: 20px;
 }
-
-.statusNotOnline{
-    display: inline-block;
-    width: 10px;
-    height: 10px;
-    margin-left: 5px;
-    border-radius: 50%;
-    background-color: red;
-}
-
-.avatar{
-    width: 50px;
-    height: 50px;
-    padding-top: 10px;
-    margin-left: 10px;
-    margin-right: 20px;
-}
-
-.name{
-    color: black;
-    font-weight: 600;
-    font-size: 20px;
-}
-.friendList{
-    list-style: none;
+.friendList {
+  list-style: none;
 }
 
 .item {
-    width: 300px;
-    height: 70px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.5);
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 15px;
-    background-color: #fff;
-}
-
-.itemDiv{
-    display: flex;
-    align-items: center;
-    cursor: pointer;
+  width: 300px;
+  height: 70px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
+  background-color: #fff;
 }

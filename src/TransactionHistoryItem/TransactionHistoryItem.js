@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-// import s from './TransactionHistory.module.css';
+// import s from './TransactionHistoryItem.module.css';
 
 function TransactionHistoryItem({ type = '', amount = '', currency = '' }) {
   return (

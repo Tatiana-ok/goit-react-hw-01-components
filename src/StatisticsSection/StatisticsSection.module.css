@@ -1,0 +1,21 @@
+.section {
+  width: 300px;
+  height: 150px;
+  border: solid 2px black;
+  border-radius: 10px;
+  font-size: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
+  background-color: #ffffff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.title {
+  margin-top: 10px;
+  text-align: center;
+}
+ul,
+h2 {
+  padding: 0px;
+  margin: 0px;
+}

@@ -4,8 +4,8 @@ import user from './data/user.json';
 import './App.css';
 
 import statisticalData from './data/statistical-data.json';
-import StatisticList from './Statistics/StatisticList';
-import StatisticsSection from './Statistics/StatisticsSection';
+import StatisticList from './StatisticList/StatisticList';
+import StatisticsSection from './StatisticsSection/StatisticsSection';
 
 import FriendList from './FriendList/FriendList';
 import friends from './data/friends.json';

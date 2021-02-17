@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import s from './FriendList.module.css';
+import s from './FriendListItem.module.css';
 import defaultImg from '../image/default.png';
 
 function FriendListItem({ status, avatar = defaultImg, name = 'Аноним' }) {
